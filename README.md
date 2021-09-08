@@ -1,6 +1,6 @@
 - 👋 Hey there, Thank you for stopping by my profile! I’m Sreedutt Haridos, @sreedutt-haridos 
 - 👀 I’m interested in learning and exploring new opportunities 
-- 🌱 I’m currently learning B.Tech-Computer Science and Engineering at VIT
+- 🌱 I’m currently doing B.Tech-Computer Science and Engineering at VIT
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me :
       You can reach me through either email: sreedutt.haridos21@gmail.com
