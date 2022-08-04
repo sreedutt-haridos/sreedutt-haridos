@@ -3,7 +3,7 @@
 - 🌱 I’m currently doing B.Tech-Computer Science and Engineering at VIT
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me :
-      You can reach me through either email: sreedutt.h24@gmail.com
+      You can reach me through either email: sreedutt.h10@gmail.com
       or you can get in touch with me through linkedIn: https://www.linkedin.com/in/sreedutt-haridos/
 
 <!---
